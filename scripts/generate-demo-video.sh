@@ -2,7 +2,7 @@
 # Generate screenpipe demo video from real screen data
 # Concept #5: "1,000 Screenshots" — rapid montage + search moment
 # Concept #3: "Speed" — full day compressed + clarity moment
-#
+# Test
 # Usage: ./generate-demo-video.sh [concept3|concept5] [date: 2026-02-03]
 
 set -e
